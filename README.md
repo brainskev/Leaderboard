@@ -28,7 +28,7 @@ run npm run test to check and validate the HTML and CSS files.
 
 Feel free to reach out. I'm always happy to connect
 
-👤 **Selma Ndapanda**
+👤 **Kelvin Kaviku**
 
 - GitHub: [@brainskev](https://github.com/brainskev/)
 - Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
