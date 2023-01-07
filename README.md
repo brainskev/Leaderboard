@@ -1,32 +1,133 @@
-# Leaderboard
+<a name="readme-top"></a>
 
-The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## Built with
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Leaderboard] <a name="about-project"></a>
+
+**[Leaderboard]** is website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
+
+## 🛠 Built With <a name="built-with"></a>
 
 - HTML
 - CSS
 - Javascript
 - Webpack
 
-## Getting Started
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-```
+````
 git clone https://github.com/brainskev/Leaderboard.git
+
+### Prerequisites
+
+In order to run this project you need:
+
+
+```sh
+ npm install
+````
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm run start
 ```
 
-## Linters
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```
-run npm install.
-run npm run test to check and validate the HTML and CSS files.
-```
+<!-- AUTHORS -->
 
-## Author
+## 👥 Authors <a name="authors"></a>
 
-Feel free to reach out. I'm always happy to connect
+> Mention all of the collaborators of this project.
 
 👤 **Kelvin Kaviku**
 
@@ -34,20 +135,48 @@ Feel free to reach out. I'm always happy to connect
 - Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
 - LinkedIn: [kelvin](https://www.linkedin.com/in/kelvin-kaviku-5178001a6/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Contributions, issues and feature requests are welcome!
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[delete_feature]** to enable deleting of scores
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/brainskev/Leaderboard/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you dig this project!
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Microverse
+<!-- ACKNOWLEDGEMENTS -->
 
-## 📝 MIT License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project makes use of the [MIT](https://github.com/brainskev/To-do-list/blob/main/LICENSE)License.
+I would like to thank Microverse for the opportunity to work on this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](<(https://github.com/brainskev/To-do-list/blob/main/LICENSE)>) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
