@@ -75,7 +75,9 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-git clone https://github.com/brainskev/Leaderboard.git
+```sh
+ git clone https://github.com/brainskev/Leaderboard.git
+```
 
 ### Prerequisites
 
