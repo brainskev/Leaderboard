@@ -125,8 +125,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Kelvin Kaviku**
 
 - GitHub: [@brainskev](https://github.com/brainskev/)
@@ -138,8 +136,6 @@ To run the project, execute the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[delete_feature]** to enable deleting of scores
 
@@ -175,6 +171,6 @@ I would like to thank Microverse for the opportunity to work on this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](<(https://github.com/brainskev/To-do-list/blob/main/LICENSE)>) licensed.
+This project is [MIT](https://github.com/brainskev/To-do-list/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
